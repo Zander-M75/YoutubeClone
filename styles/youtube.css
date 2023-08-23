@@ -1,7 +1,10 @@
 
 
+
+
 .thumbnail {
     width: 100%;
+    cursor: pointer;
 }
 
 .video-title{
@@ -10,6 +13,7 @@
     font-weight: 500;
     line-height: 20px;
     margin-bottom: 12px;
+    cursor: pointer;
 }
 
 
@@ -22,7 +26,8 @@
 
 .profile-picture{
     width: 36px;
-    border-radius: 50px
+    border-radius: 50px;
+    cursor: pointer;
 }
 
 .thumbnail-row{
